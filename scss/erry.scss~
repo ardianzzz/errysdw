@@ -115,11 +115,11 @@ body {
 	
 	h1 {
 		font-family: "abril_fatfaceregular", Georgia, Serif;
-		color:rgba(0,0,0,0.375);
+		color:rgba(0,0,0,0.3);
 		display:inline-block;
 position:relative;
 font-size:18px;
-text-shadow:1px 1px rgba(255,255,255,0.5);
+text-shadow:1px 1px rgba(255,255,255,0.75);
 
 
 
@@ -161,7 +161,7 @@ text-shadow:1px 1px rgba(255,255,255,0.5);
 	right:-100px;
 	text-align: left;
 	padding-top:16px;
-	text-shadow:1px 1px rgba(255,255,255,0.75);
+	text-shadow:1px 1px rgba(255,255,255,0.5);
 
 	span {
 		display: block;
